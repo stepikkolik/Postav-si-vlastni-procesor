@@ -1,0 +1,1 @@
+Odstranil jsem ze souborů metadata, takže to bude hlásit chybovou hlášku při otevírání, žádný vir jsem tam však nedal. 
